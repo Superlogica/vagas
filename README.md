@@ -4,7 +4,7 @@ Bem vindo ao nosso repositório com vagas de desenvolvimento.
 
 Fundada em 2001, na cidade de Campinas, a Superlógica conta com mais de 200 colaboradores em sua sede e tem crescido exponencialmente nos últimos anos. 
 
-Desenvolvemos o ERP recorrente líder de mercado contando com cinco verticais de negócios: Assinaturas (SaaS e negócios recorrentes), Condomínios e Imobiliárias.
+Desenvolvemos o ERP recorrente líder de mercado contando com três verticais de negócios: Assinaturas (SaaS e negócios recorrentes), Condomínios e Imobiliárias. Também fundamos o PJBank que é uma conta digital para empresas.
 
 Acreditamos que só o empreendedorismo pode salvar o mundo. Para cumprir o nosso propósito, além de construir um belo time, nós apoiamos o desenvolvimento do ecossistema empreendedor realizando grandes eventos. O Superlógica Xperience, maior evento de economia da recorrência da América Latina, o Superlógica Next, que percorre todo o Brasil para transformar o mercado condominial, e o Superlógica Labs, que traz referências de mercado para falar sobre gestão, desenvolvimento, customer success, marketing, métricas e muito mais.
 
@@ -23,6 +23,7 @@ Os times abraçam o novo e se adaptam a diversos contextos. A Superlógica tem c
 
 **Vagas**
 
+[Dev PHP Pleno/Senior](https://jobs.solides.com/superlogica/vaga/2666)
 
 
 Maiores detalhes:
