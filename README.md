@@ -6,7 +6,7 @@ Fundada em 2001, na cidade de Campinas, a [Superlógica](https://www.superlogica
 
 Desenvolvemos o ERP recorrente líder de mercado contando com três verticais de negócios: Assinaturas (SaaS e negócios recorrentes), Condomínios e Imobiliárias. Também fundamos o [PJBank](https://www.pjbank.com.br) que é uma conta digital para empresas.
 
-Acreditamos que só o empreendedorismo pode salvar o mundo. Para cumprir o nosso propósito, além de construir um belo time, nós apoiamos o desenvolvimento do ecossistema empreendedor realizando grandes eventos. O [Superlógica Xperience](https://xp.superlogica.com), maior evento de economia da recorrência da América Latina, o Superlógica Next, que percorre todo o Brasil para transformar o mercado condominial, e o [Superlógica Labs](https://labs.superlogica.com), que traz referências de mercado para falar sobre gestão, desenvolvimento, customer success, marketing, métricas e muito mais.
+Acreditamos que só o empreendedorismo pode salvar o mundo. Para cumprir o nosso propósito, além de construir um belo time, nós apoiamos o desenvolvimento do ecossistema empreendedor realizando grandes eventos. O [Superlógica Xperience](https://xp.superlogica.com), maior evento de economia da recorrência da América Latina, o [Superlógica Next](https://next.superlogica.com), que percorre todo o Brasil para transformar o mercado condominial, e o [Superlógica Labs](https://labs.superlogica.com), que traz referências de mercado para falar sobre gestão, desenvolvimento, customer success, marketing, métricas e muito mais.
 
 **Pessoas**
 
