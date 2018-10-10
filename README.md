@@ -1,12 +1,15 @@
+![Superlogica](https://superlogica.com/wp-content/uploads/2014/10/logo-sl-normal.png)
+
+
 # Superlógica Tecnologias
 
-Bem vindo ao nosso repositório com vagas de desenvolvimento.
+Bem vindo ao nosso repositório de vagas para desenvolvedores.
 
-Fundada em 2001, na cidade de Campinas, a Superlógica conta com mais de 200 colaboradores em sua sede e tem crescido exponencialmente nos últimos anos. 
+Fundada em 2001, na cidade de Campinas, a [Superlógica](https://www.superlogica.com) conta com mais de 200 colaboradores em sua sede e tem crescido exponencialmente nos últimos anos. 
 
-Desenvolvemos o ERP recorrente líder de mercado contando com três verticais de negócios: Assinaturas (SaaS e negócios recorrentes), Condomínios e Imobiliárias. Também fundamos o PJBank que é uma conta digital para empresas.
+Desenvolvemos o ERP recorrente líder de mercado contando com três verticais de negócios: Assinaturas (SaaS e negócios recorrentes), Condomínios e Imobiliárias. Também fundamos o [PJBank](https://www.pjbank.com.br) que é uma conta digital para empresas.
 
-Acreditamos que só o empreendedorismo pode salvar o mundo. Para cumprir o nosso propósito, além de construir um belo time, nós apoiamos o desenvolvimento do ecossistema empreendedor realizando grandes eventos. O Superlógica Xperience, maior evento de economia da recorrência da América Latina, o Superlógica Next, que percorre todo o Brasil para transformar o mercado condominial, e o Superlógica Labs, que traz referências de mercado para falar sobre gestão, desenvolvimento, customer success, marketing, métricas e muito mais.
+Acreditamos que só o empreendedorismo pode salvar o mundo. Para cumprir o nosso propósito, além de construir um belo time, nós apoiamos o desenvolvimento do ecossistema empreendedor realizando grandes eventos. O [Superlógica Xperience](https://xp.superlogica.com), maior evento de economia da recorrência da América Latina, o Superlógica Next, que percorre todo o Brasil para transformar o mercado condominial, e o [Superlógica Labs](https://labs.superlogica.com), que traz referências de mercado para falar sobre gestão, desenvolvimento, customer success, marketing, métricas e muito mais.
 
 **Pessoas**
 
