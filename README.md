@@ -1,8 +1,5 @@
 ![Superlogica](https://superlogica.com/wp-content/uploads/2014/10/logo-sl-normal.png)
 
-
-# Superlógica Tecnologias
-
 Bem vindo ao nosso repositório de vagas para desenvolvedores.
 
 Fundada em 2001, na cidade de Campinas, a [Superlógica](https://www.superlogica.com) conta com mais de 200 colaboradores em sua sede e tem crescido exponencialmente nos últimos anos. 
