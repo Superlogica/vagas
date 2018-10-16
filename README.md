@@ -26,6 +26,10 @@ Os times abraçam o novo e se adaptam a diversos contextos. A Superlógica tem c
 [Dev PHP Pleno/Senior](https://jobs.solides.com/superlogica/vaga/2666)
 
 
+[DBA](https://jobs.solides.com/superlogica/vaga/2901)
+
+
+
 Maiores detalhes:
 
 https://carreiras.superlogica.com
